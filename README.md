@@ -31,9 +31,7 @@
 
 **해당 모드팩의 목표는 자원을 모아 기계들을 구축하고, 기계들을 통해 가공한 자원을 모아서 행성을 탈출하는 목표를 가지고 있습니다.**
 
-['Create'](https://www.curseforge.com/minecraft/mc-mods/create) , [Immersive Engieering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) 그리고 [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) 모드들을 주력으로 하여 차례대로 기술 단계를 높여가는 진행 방식을 가지고 있습니다.
-
-###### 새로 안 사실: '(문자)'를 하면 자동으로 영어단어가 번역되는 일을 방지할 수 있다.
+[`Create`](https://www.curseforge.com/minecraft/mc-mods/create) , [Immersive Engieering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) 그리고 [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) 모드들을 주력으로 하여 차례대로 기술 단계를 높여가는 진행 방식을 가지고 있습니다.
 
 ---
 
