@@ -7,10 +7,11 @@
 
 **최대한 마크다운 문법을 사용하기 위해 작성하였습니다.**
 
-~~나무위키에서나 보았던 취소선~~
-
 ***
 ---
+
+(*을 사용한 선이 -을 사용한 선보다 더 굵은 것을 확인 됩니다)
+
 
 ## Zero to Engineering
 
@@ -30,37 +31,42 @@
 
 **해당 모드팩의 목표는 자원을 모아 기계들을 구축하고, 기계들을 통해 가공한 자원을 모아서 행성을 탈출하는 목표를 가지고 있습니다.**
 
-[Create](https://www.curseforge.com/minecraft/mc-mods/create) , [Immersive Engieering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) 그리고 [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) 모드들을 주력으로 하여 차례대로 기술 단계를 높여가는 진행 방식을 가지고 있습니다.
+['Create'](https://www.curseforge.com/minecraft/mc-mods/create) , [Immersive Engieering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) 그리고 [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) 모드들을 주력으로 하여 차례대로 기술 단계를 높여가는 진행 방식을 가지고 있습니다.
 
+###### 새로 안 사실: '(문자)'를 하면 자동으로 영어단어가 번역되는 일을 방지할 수 있다.
 
 ---
 
 ### 2. 모드팩 권장 사양
 
-__해당 모드팩은 비쥬얼적인 요소들을 위해 Distant Horizons: A Level of Detail mod모드와 쉐이더가 적용되어 있습니다. 고사양이 아닌 하드웨어에서는 추가적인 설정을 통해 해당 기능들을 끄셔야 합니다.__
+__해당 모드팩은 비쥬얼적인 요소들을 위해 Distant Horizons 모드와 Complementary Shaders - Unbound 쉐이더가 적용되어 있습니다. 고사양이 아닌 하드웨어에서는 추가적인 설정을 통해 해당 기능들을 끄셔야 합니다.__
+
+![DH 예시 사진](./testImage2.jpg)
 
 다음은 테스트한 하드웨어 사양입니다.
 
 + 권장 사양 (데스크탑)
 
-  AMD 7800 3D CPU
+  CPU: AMD 7800 3D
   
-  64기가 RAM
+  RAM: 64G
   
-  RTX 5070ti GPU
+  GPU: RTX 5070ti
 
 + 최소 사양 (노트북)
 
-  i7 14세대 CPU
+  CPU: Intel i7 14
   
-  32기가 RAM
+  RAM: 32G
   
-  RTX 5060 GPU
+  GPU: RTX 5060
 
 ---
 
 ### 3. 사용된 코드 일부
-***아래 코드는 흙을 퍼내었을 때에 0.2 확률로 부싯돌을 드롭하는 코드 입니다.***
+***아래 코드는 흙을 퍼내었을 때에 0.2 확률로 부싯돌을 드롭하는 kubejs의 server script 코드 입니다.***
+
+~~GPT는 신이고, 신은 인터넷에 존재합니다!~~
 ```
 BlockEvents.broken(event => {
   if (event.block.id == 'minecraft:dirt') {
@@ -83,3 +89,5 @@ BlockEvents.broken(event => {
 디스코드: empty465
 
 *저는 대학생 신분이기 때문에 평일 주간에는 답변이 힘들 수 있습니다.*
+
+~~사실 강의 중에도 가끔 확인하기는 합니다. 정 급하면 언제든 연락주세요.~~
