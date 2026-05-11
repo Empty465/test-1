@@ -14,6 +14,8 @@
 
 ## Zero to Engineering
 
+**목차**
+
 1. 모드팩 소개
 2. 모드팩 권장 사양
 3. 사용된 코드 일부
@@ -27,6 +29,9 @@
 모드팩은 여러 모드를 조합한 패키지 형태의 2(3)차 창작물입니다.
 
 **해당 모드팩의 목표는 자원을 모아 기계들을 구축하고, 기계들을 통해 가공한 자원을 모아서 행성을 탈출하는 목표를 가지고 있습니다.**
+
+[Create](https://www.curseforge.com/minecraft/mc-mods/create) , [Immersive Engieering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) 그리고 [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) 모드들을 주력으로 하여 차례대로 기술 단계를 높여가는 진행 방식을 가지고 있습니다.
+
 
 ---
 
